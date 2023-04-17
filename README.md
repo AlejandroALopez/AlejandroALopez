@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+A Dartmouth computer science student, specializing in Full Stack development and always looking to learn new things.
+
 <!--
 **AlejandroALopez/AlejandroALopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
