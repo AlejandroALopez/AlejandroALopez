@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Dartmouth computer science student, specializing in Full Stack development and always looking to learn new things.
+A new computer science grad from Dartmouth College, specializing in Full Stack development and always looking to learn new things.
 
 Personal Website: https://alejandroalopez.github.io/personal-website/
 
