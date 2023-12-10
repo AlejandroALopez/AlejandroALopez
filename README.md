@@ -2,7 +2,7 @@
 
 A new computer science grad from Dartmouth College, specializing in Full Stack development and always looking to learn new things.
 
-Personal Website: https://alejandroalopez.github.io/personal-website/
+Personal Website: https://www.alejandroalopez.com/
 
 ## What I'm Proficient With
 
