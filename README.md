@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A recent CS grad from Dartmouth College. I specialize in Full Stack development and always looking to learn new things</h3>
+<h1>Hi 👋, I'm Alex</h1>
+<h3>A recent CS grad from Dartmouth College. I specialize in Full Stack development and always looking to learn new things</h3>
 
 - 🌱 I’m currently learning **Cloud Technologies, AI integrations, containers**
 
